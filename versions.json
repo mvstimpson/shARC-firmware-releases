@@ -11,6 +11,6 @@
     "filename": "dfu_hub.zip",
     "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/hub-v1.2.1/dfu_hub.zip",
     "releaseNotes": "Added app/firmware compatibility check",
-    "minAppVersion": "1.0.0"
+    "minAppVersion": "99.0.0"
   }
 }
