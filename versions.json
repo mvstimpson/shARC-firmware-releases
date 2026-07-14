@@ -2,7 +2,7 @@
   "clip": {
     "version": "1.2.2",
     "filename": "dfu_clip.zip",
-    "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/clip-v1.2.0/dfu_clip.zip",
+    "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/clip-v1.2.2/dfu_clip.zip",
     "releaseNotes": "Added app/firmware compatibility check",
     "minAppVersion": "1.0.0"
   },
