@@ -1,15 +1,15 @@
 {
   "clip": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "filename": "dfu_clip.zip",
-    "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/clip-v1.2.3/dfu_clip.zip",
+    "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/clip-v1.2.4/dfu_clip.zip",
     "releaseNotes": "Added app/firmware compatibility check",
     "minAppVersion": "1.1.0"
   },
   "hub": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "filename": "dfu_hub.zip",
-    "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/hub-v1.2.3/dfu_hub.zip",
+    "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/hub-v1.2.4/dfu_hub.zip",
     "releaseNotes": "Added app/firmware compatibility check",
     "minAppVersion": "1.1.0"
   }
