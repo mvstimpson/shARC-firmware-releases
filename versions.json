@@ -13,9 +13,9 @@
       "minAppVersion": "1.1.0"
     },
     "2x": {
-      "version": "2.0.0",
+      "version": "2.0.1",
       "filename": "dfu_clip.zip",
-      "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/clip-v2.0.0/dfu_clip.zip",
+      "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/clip-v2.0.1/dfu_clip.zip",
       "releaseNotes": "TBD — first production release",
       "minAppVersion": "2.0.0"
     }
