@@ -13,10 +13,10 @@
       "minAppVersion": "1.1.0"
     },
     "2x": {
-      "version": "2.0.2",
+      "version": "2.0.17",
       "filename": "dfu_clip.zip",
-      "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/clip-v2.0.2/dfu_clip.zip",
-      "releaseNotes": "TBD — first production release",
+      "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/clip-v2.0.17/dfu_clip.zip",
+      "releaseNotes": "Fix Bluetooth",
       "minAppVersion": "2.0.0"
     }
   },
@@ -34,11 +34,32 @@
       "minAppVersion": "1.1.0"
     },
     "2x": {
-      "version": "2.0.1",
+      "version": "2.1.6",
       "filename": "dfu_hub.zip",
-      "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/hub-v2.0.1/dfu_hub.zip",
-      "releaseNotes": "TBD — first production release",
+      "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/hub-v2.1.6/dfu_hub.zip",
+      "releaseNotes": "Fix Bluetooth",
       "minAppVersion": "2.0.0"
+    }
+  },
+  "pedal": {
+    "version": "1.0.15",
+    "filename": "dfu_pedal.zip",
+    "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/pedal-v1.0.15/dfu_pedal.zip",
+    "releaseNotes": "First pedal release",
+    "minAppVersion": "2.1.0",
+    "1x": {
+      "version": "1.0.15",
+      "filename": "dfu_pedal.zip",
+      "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/pedal-v1.0.15/dfu_pedal.zip",
+      "releaseNotes": "First pedal release",
+      "minAppVersion": "2.1.0"
+    },
+    "2x": {
+      "version": "",
+      "filename": "dfu_pedal.zip",
+      "url": "",
+      "releaseNotes": "",
+      "minAppVersion": "2.1.0"
     }
   }
 }
