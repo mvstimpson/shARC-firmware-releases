@@ -34,9 +34,9 @@
       "minAppVersion": "1.1.0"
     },
     "2x": {
-      "version": "2.1.6",
+      "version": "2.1.7",
       "filename": "dfu_hub.zip",
-      "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/hub-v2.1.6/dfu_hub.zip",
+      "url": "https://github.com/mvstimpson/shARC-firmware-releases/releases/download/hub-v2.1.7/dfu_hub.zip",
       "releaseNotes": "Fix Bluetooth",
       "minAppVersion": "2.0.0"
     }
